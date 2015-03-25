@@ -1,0 +1,14 @@
+# Navarro Human Eye Model
+# Rad	- Radius of curvature
+# Asph	- Asphericity
+# Thick	- thickness
+# Ref	- refractive index
+# Aper	- Aperture
+############################################
+# Rad	Asph	Thick	Ref		Aper
+7.72	-0.26	0.55	1.367	12
+6.5		0		3.05	1.3374	12
+0		0		0		0		4
+10.2	-3.1316	4		1.42	10
+-6		-1		16.3203	1.336	10
+-12		0		0		0		24
